@@ -37,8 +37,8 @@ sites:
     url: https://topos.memo.ru
   - name: hts.memo.ru
     url: http://hts.memo.ru
-  - name: konkurs.memo.ru
-    url: http://konkurs.memo.ru
+#   - name: konkurs.memo.ru
+#     url: http://konkurs.memo.ru
   - name: lib.memo.ru
     url: https://lib.memo.ru
   - name: lists.memo.ru
