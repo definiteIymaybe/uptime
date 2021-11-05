@@ -13,8 +13,8 @@ sites:
     url: https://30marta.memo.ru
   - name: afternoon.1968.memo.ru
     url: https://afternoon.1968.memo.ru
-  - name: https://alexanderyakovlev.org
-    url: alexanderyakovlev.org
+  - name: alexanderyakovlev.org
+    url: https://alexanderyakovlev.org
   - name: archive.tastorona.su
     url: http://archive.tastorona.su
   - name: backhome.memo.ru
