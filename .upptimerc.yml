@@ -5,6 +5,64 @@ repo: uptime # The name of this repository
 sites:
   - name: memo.ru
     url: https://memo.ru
+	- name: 1968.memo.ru
+	  url: https://1968.memo.ru
+	- name: 1989.memo.ru
+		url: http://1989.memo.ru
+  - name: 30marta.memo.ru
+    url: https://30marta.memo.ru
+  - name: afternoon.1968.memo.ru
+    url: https://afternoon.1968.memo.ru
+  - name: https://alexanderyakovlev.org
+    url: alexanderyakovlev.org
+  - name: archive.tastorona.su
+    url: http://archive.tastorona.su
+  - name: backhome.memo.ru
+    url: https://backhome.memo.ru
+  - name: base.memo.ru
+    url: https://base.memo.ru
+  - name: bulletin.memo.ru
+    url: http://bulletin.memo.ru
+  - name: cathol.memo.ru
+    url: http://cathol.memo.ru
+  - name: donate.memo.ru
+    url: https://donate.memo.ru
+  - name: dostup.memo.ru
+    url: https://dostup.memo.ru
+  - name: fond21.memo.ru
+    url: https://fond21.memo.ru
+  - name: histor-ipt-kt.memo.ru
+    url: http://histor-ipt-kt.memo.ru
+  - name: topos.memo.ru
+    url: https://topos.memo.ru
+  - name: hts.memo.ru
+    url: http://hts.memo.ru
+  - name: konkurs.memo.ru
+    url: http://konkurs.memo.ru
+  - name: lib.memo.ru
+    url: https://lib.memo.ru
+  - name: lists.memo.ru
+    url: http://lists.memo.ru
+  - name: listsbook.memo.ru
+    url: http://listsbook.memo.ru
+  - name: memo.ru
+    url: https://memo.ru
+  - name: memoirs.memo.ru
+    url: https://memoirs.memo.ru
+  - name: mos.memo.ru
+    url: https://mos.memo.ru
+  - name: museum.memo.ru
+    url: https://museum.memo.ru
+  - name: nkvd.memo.ru
+    url: https://nkvd.memo.ru
+  - name: notepad.memo.ru
+    url: http://notepad.memo.ru
+  - name: october29.ru
+    url: https://october29.ru
+  - name: oskolki.memo.ru
+    url: https://oskolki.memo.ru
+  - name: ost-west.memo.ru
+    url: https://ost-west.memo.ru
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
