@@ -130,18 +130,20 @@
     "url": "https://backhome.memo.ru",
     "icon": "https://favicons.githubusercontent.com/backhome.memo.ru",
     "slug": "backhome-memo-ru",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.83%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
     "time": 1718,
     "timeDay": 1718,
     "timeWeek": 1718,
     "timeMonth": 1718,
     "timeYear": 1718,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-06": 2
+    }
   },
   {
     "name": "base.memo.ru",
@@ -322,7 +324,7 @@
     "timeMonth": 1959,
     "timeYear": 1959,
     "dailyMinutesDown": {
-      "2021-11-06": 51,
+      "2021-11-06": 262,
       "2021-11-05": 695
     }
   },
