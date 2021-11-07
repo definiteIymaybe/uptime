@@ -1,7 +1,7 @@
 url: https://museum.memo.ru
-status: up
-code: 200
-responseTime: 966
-lastUpdated: 2021-11-06T23:19:29.978Z
+status: down
+code: 502
+responseTime: 1673
+lastUpdated: 2021-11-07T21:01:05.948Z
 startTime: Fri Nov 05 2021 12:25:39 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
