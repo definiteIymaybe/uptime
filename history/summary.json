@@ -324,7 +324,7 @@
     "timeMonth": 1970,
     "timeYear": 1970,
     "dailyMinutesDown": {
-      "2021-11-07": 1261,
+      "2021-11-07": 1274,
       "2021-11-06": 1440,
       "2021-11-05": 695
     }
@@ -442,19 +442,19 @@
     "url": "https://museum.memo.ru",
     "icon": "https://favicons.githubusercontent.com/museum.memo.ru",
     "slug": "museum-memo-ru",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1024,
-    "timeDay": 1320,
-    "timeWeek": 1024,
-    "timeMonth": 1024,
-    "timeYear": 1024,
+    "status": "up",
+    "uptime": "99.63%",
+    "uptimeDay": "99.12%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.63%",
+    "uptimeYear": "99.63%",
+    "time": 1015,
+    "timeDay": 1188,
+    "timeWeek": 1015,
+    "timeMonth": 1015,
+    "timeYear": 1015,
     "dailyMinutesDown": {
-      "2021-11-07": 0
+      "2021-11-07": 13
     }
   },
   {
