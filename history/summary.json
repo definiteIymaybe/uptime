@@ -58,18 +58,20 @@
     "url": "https://30marta.memo.ru",
     "icon": "https://favicons.githubusercontent.com/30marta.memo.ru",
     "slug": "30marta-memo-ru",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1028,
     "timeDay": 918,
     "timeWeek": 1028,
     "timeMonth": 1028,
     "timeYear": 1028,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-08": 0
+    }
   },
   {
     "name": "afternoon.1968.memo.ru",
@@ -131,11 +133,11 @@
     "icon": "https://favicons.githubusercontent.com/backhome.memo.ru",
     "slug": "backhome-memo-ru",
     "status": "up",
-    "uptime": "99.38%",
+    "uptime": "99.50%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.38%",
-    "uptimeMonth": "99.38%",
-    "uptimeYear": "99.38%",
+    "uptimeWeek": "99.50%",
+    "uptimeMonth": "99.50%",
+    "uptimeYear": "99.50%",
     "time": 1694,
     "timeDay": 1520,
     "timeWeek": 1694,
@@ -324,7 +326,7 @@
     "timeMonth": 1966,
     "timeYear": 1966,
     "dailyMinutesDown": {
-      "2021-11-08": 54,
+      "2021-11-08": 915,
       "2021-11-07": 1440,
       "2021-11-06": 1440,
       "2021-11-05": 695
