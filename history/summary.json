@@ -206,19 +206,19 @@
     "url": "https://donate.memo.ru",
     "icon": "https://favicons.githubusercontent.com/donate.memo.ru",
     "slug": "donate-memo-ru",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 2041,
-    "timeDay": 2176,
-    "timeWeek": 2041,
-    "timeMonth": 2041,
-    "timeYear": 2041,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 1989,
+    "timeDay": 1742,
+    "timeWeek": 1989,
+    "timeMonth": 1989,
+    "timeYear": 1989,
     "dailyMinutesDown": {
-      "2021-11-11": 1
+      "2021-11-11": 5
     }
   },
   {
@@ -328,7 +328,7 @@
     "timeMonth": 1980,
     "timeYear": 1980,
     "dailyMinutesDown": {
-      "2021-11-11": 894,
+      "2021-11-11": 899,
       "2021-11-10": 1440,
       "2021-11-09": 1440,
       "2021-11-08": 1440,
