@@ -331,7 +331,7 @@
     "timeMonth": 1923,
     "timeYear": 1923,
     "dailyMinutesDown": {
-      "2021-11-14": 208,
+      "2021-11-14": 236,
       "2021-11-13": 1440,
       "2021-11-12": 1440,
       "2021-11-11": 1440,
@@ -528,9 +528,9 @@
     "url": "https://oskolki.memo.ru",
     "icon": "https://favicons.githubusercontent.com/oskolki.memo.ru",
     "slug": "oskolki-memo-ru",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -539,7 +539,9 @@
     "timeWeek": 261,
     "timeMonth": 390,
     "timeYear": 390,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-14": 0
+    }
   },
   {
     "name": "ost-west.memo.ru",
