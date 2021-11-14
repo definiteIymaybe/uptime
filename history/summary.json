@@ -331,7 +331,7 @@
     "timeMonth": 1923,
     "timeYear": 1923,
     "dailyMinutesDown": {
-      "2021-11-14": 925,
+      "2021-11-14": 937,
       "2021-11-13": 1440,
       "2021-11-12": 1440,
       "2021-11-11": 1440,
@@ -528,19 +528,19 @@
     "url": "https://oskolki.memo.ru",
     "icon": "https://favicons.githubusercontent.com/oskolki.memo.ru",
     "slug": "oskolki-memo-ru",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 393,
-    "timeDay": 393,
-    "timeWeek": 284,
-    "timeMonth": 393,
-    "timeYear": 393,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 378,
+    "timeDay": 309,
+    "timeWeek": 268,
+    "timeMonth": 378,
+    "timeYear": 378,
     "dailyMinutesDown": {
-      "2021-11-14": 0
+      "2021-11-14": 12
     }
   },
   {
