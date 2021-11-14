@@ -135,11 +135,11 @@
     "icon": "https://favicons.githubusercontent.com/backhome.memo.ru",
     "slug": "backhome-memo-ru",
     "status": "up",
-    "uptime": "99.71%",
+    "uptime": "99.72%",
     "uptimeDay": "98.91%",
     "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.71%",
-    "uptimeYear": "99.71%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.72%",
     "time": 1576,
     "timeDay": 1147,
     "timeWeek": 1422,
@@ -209,10 +209,10 @@
     "url": "https://donate.memo.ru",
     "icon": "https://favicons.githubusercontent.com/donate.memo.ru",
     "slug": "donate-memo-ru",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1919,
@@ -220,7 +220,9 @@
     "timeWeek": 1809,
     "timeMonth": 1919,
     "timeYear": 1919,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-14": 1
+    }
   },
   {
     "name": "dostup.memo.ru",
@@ -228,11 +230,11 @@
     "icon": "https://favicons.githubusercontent.com/dostup.memo.ru",
     "slug": "dostup-memo-ru",
     "status": "up",
-    "uptime": "99.88%",
+    "uptime": "99.89%",
     "uptimeDay": "98.95%",
     "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.88%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
     "time": 1239,
     "timeDay": 757,
     "timeWeek": 1084,
@@ -331,7 +333,7 @@
     "timeMonth": 1923,
     "timeYear": 1923,
     "dailyMinutesDown": {
-      "2021-11-14": 937,
+      "2021-11-14": 1297,
       "2021-11-13": 1440,
       "2021-11-12": 1440,
       "2021-11-11": 1440,
@@ -464,7 +466,7 @@
     "uptimeYear": "100.00%",
     "time": 959,
     "timeDay": 563,
-    "timeWeek": 973,
+    "timeWeek": 879,
     "timeMonth": 959,
     "timeYear": 959,
     "dailyMinutesDown": {}
@@ -529,19 +531,17 @@
     "icon": "https://favicons.githubusercontent.com/oskolki.memo.ru",
     "slug": "oskolki-memo-ru",
     "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 378,
     "timeDay": 309,
     "timeWeek": 268,
     "timeMonth": 378,
     "timeYear": 378,
-    "dailyMinutesDown": {
-      "2021-11-14": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "ost-west.memo.ru",
