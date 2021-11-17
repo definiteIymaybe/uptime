@@ -135,11 +135,11 @@
     "icon": "https://favicons.githubusercontent.com/backhome.memo.ru",
     "slug": "backhome-memo-ru",
     "status": "up",
-    "uptime": "99.77%",
+    "uptime": "99.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "99.77%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.78%",
     "time": 1557,
     "timeDay": 1218,
     "timeWeek": 1400,
@@ -331,7 +331,7 @@
     "timeMonth": 1898,
     "timeYear": 1898,
     "dailyMinutesDown": {
-      "2021-11-17": 53,
+      "2021-11-17": 409,
       "2021-11-16": 1440,
       "2021-11-15": 1440,
       "2021-11-14": 1440,
@@ -477,9 +477,9 @@
     "url": "https://nkvd.memo.ru",
     "icon": "https://favicons.githubusercontent.com/nkvd.memo.ru",
     "slug": "nkvd-memo-ru",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -488,7 +488,9 @@
     "timeWeek": 1489,
     "timeMonth": 1487,
     "timeYear": 1487,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-17": 0
+    }
   },
   {
     "name": "notepad.memo.ru",
