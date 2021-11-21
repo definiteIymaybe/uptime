@@ -40,19 +40,19 @@
     "url": "http://1989.memo.ru",
     "icon": "https://favicons.githubusercontent.com/1989.memo.ru",
     "slug": "1989-memo-ru",
-    "status": "down",
-    "uptime": "98.10%",
-    "uptimeDay": "69.45%",
-    "uptimeWeek": "95.64%",
-    "uptimeMonth": "98.10%",
-    "uptimeYear": "98.10%",
-    "time": 814,
-    "timeDay": 843,
-    "timeWeek": 809,
-    "timeMonth": 814,
-    "timeYear": 814,
+    "status": "up",
+    "uptime": "97.85%",
+    "uptimeDay": "65.24%",
+    "uptimeWeek": "95.03%",
+    "uptimeMonth": "97.85%",
+    "uptimeYear": "97.85%",
+    "time": 828,
+    "timeDay": 871,
+    "timeWeek": 832,
+    "timeMonth": 828,
+    "timeYear": 828,
     "dailyMinutesDown": {
-      "2021-11-21": 441
+      "2021-11-21": 501
     }
   },
   {
@@ -213,19 +213,19 @@
     "url": "https://donate.memo.ru",
     "icon": "https://favicons.githubusercontent.com/donate.memo.ru",
     "slug": "donate-memo-ru",
-    "status": "up",
-    "uptime": "99.63%",
-    "uptimeDay": "94.03%",
-    "uptimeWeek": "99.15%",
-    "uptimeMonth": "99.63%",
-    "uptimeYear": "99.63%",
+    "status": "down",
+    "uptime": "99.65%",
+    "uptimeDay": "94.35%",
+    "uptimeWeek": "99.19%",
+    "uptimeMonth": "99.65%",
+    "uptimeYear": "99.65%",
     "time": 1775,
     "timeDay": 1606,
     "timeWeek": 1651,
     "timeMonth": 1775,
     "timeYear": 1775,
     "dailyMinutesDown": {
-      "2021-11-21": 86
+      "2021-11-21": 82
     }
   },
   {
@@ -337,7 +337,7 @@
     "timeMonth": 1903,
     "timeYear": 1903,
     "dailyMinutesDown": {
-      "2021-11-21": 892,
+      "2021-11-21": 953,
       "2021-11-20": 1440,
       "2021-11-19": 1440,
       "2021-11-18": 1440,
@@ -549,7 +549,7 @@
     "uptimeYear": "100.00%",
     "time": 323,
     "timeDay": 208,
-    "timeWeek": 184,
+    "timeWeek": 190,
     "timeMonth": 323,
     "timeYear": 323,
     "dailyMinutesDown": {}
