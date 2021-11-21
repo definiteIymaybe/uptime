@@ -40,17 +40,17 @@
     "url": "http://1989.memo.ru",
     "icon": "https://favicons.githubusercontent.com/1989.memo.ru",
     "slug": "1989-memo-ru",
-    "status": "up",
+    "status": "down",
     "uptime": "97.85%",
-    "uptimeDay": "65.24%",
+    "uptimeDay": "65.21%",
     "uptimeWeek": "95.03%",
     "uptimeMonth": "97.85%",
     "uptimeYear": "97.85%",
-    "time": 828,
-    "timeDay": 871,
-    "timeWeek": 832,
-    "timeMonth": 828,
-    "timeYear": 828,
+    "time": 818,
+    "timeDay": 848,
+    "timeWeek": 815,
+    "timeMonth": 818,
+    "timeYear": 818,
     "dailyMinutesDown": {
       "2021-11-21": 501
     }
@@ -213,19 +213,19 @@
     "url": "https://donate.memo.ru",
     "icon": "https://favicons.githubusercontent.com/donate.memo.ru",
     "slug": "donate-memo-ru",
-    "status": "down",
-    "uptime": "99.57%",
-    "uptimeDay": "93.03%",
-    "uptimeWeek": "99.00%",
-    "uptimeMonth": "99.57%",
-    "uptimeYear": "99.57%",
-    "time": 1762,
-    "timeDay": 1578,
-    "timeWeek": 1634,
-    "timeMonth": 1762,
-    "timeYear": 1762,
+    "status": "up",
+    "uptime": "99.42%",
+    "uptimeDay": "90.65%",
+    "uptimeWeek": "98.66%",
+    "uptimeMonth": "99.42%",
+    "uptimeYear": "99.42%",
+    "time": 1755,
+    "timeDay": 1570,
+    "timeWeek": 1627,
+    "timeMonth": 1755,
+    "timeYear": 1755,
     "dailyMinutesDown": {
-      "2021-11-21": 100
+      "2021-11-21": 135
     }
   },
   {
@@ -337,7 +337,7 @@
     "timeMonth": 1903,
     "timeYear": 1903,
     "dailyMinutesDown": {
-      "2021-11-21": 1024,
+      "2021-11-21": 1059,
       "2021-11-20": 1440,
       "2021-11-19": 1440,
       "2021-11-18": 1440,
@@ -452,18 +452,18 @@
     "icon": "https://favicons.githubusercontent.com/mos.memo.ru",
     "slug": "mos-memo-ru",
     "status": "down",
-    "uptime": "99.78%",
-    "uptimeDay": "96.39%",
-    "uptimeWeek": "99.48%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "99.78%",
+    "uptime": "99.63%",
+    "uptimeDay": "93.99%",
+    "uptimeWeek": "99.14%",
+    "uptimeMonth": "99.63%",
+    "uptimeYear": "99.63%",
     "time": 740,
     "timeDay": 809,
     "timeWeek": 719,
     "timeMonth": 740,
     "timeYear": 740,
     "dailyMinutesDown": {
-      "2021-11-21": 52
+      "2021-11-21": 87
     }
   },
   {
