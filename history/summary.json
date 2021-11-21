@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 3110,
     "timeDay": 2090,
-    "timeWeek": 3004,
+    "timeWeek": 2995,
     "timeMonth": 3110,
     "timeYear": 3110,
     "dailyMinutesDown": {}
@@ -40,19 +40,19 @@
     "url": "http://1989.memo.ru",
     "icon": "https://favicons.githubusercontent.com/1989.memo.ru",
     "slug": "1989-memo-ru",
-    "status": "down",
-    "uptime": "97.14%",
-    "uptimeDay": "52.90%",
-    "uptimeWeek": "93.27%",
-    "uptimeMonth": "97.14%",
-    "uptimeYear": "97.14%",
-    "time": 814,
-    "timeDay": 831,
-    "timeWeek": 814,
-    "timeMonth": 814,
-    "timeYear": 814,
+    "status": "up",
+    "uptime": "97.11%",
+    "uptimeDay": "52.51%",
+    "uptimeWeek": "93.22%",
+    "uptimeMonth": "97.11%",
+    "uptimeYear": "97.11%",
+    "time": 828,
+    "timeDay": 852,
+    "timeWeek": 833,
+    "timeMonth": 828,
+    "timeYear": 828,
     "dailyMinutesDown": {
-      "2021-11-21": 679
+      "2021-11-21": 684
     }
   },
   {
@@ -213,19 +213,19 @@
     "url": "https://donate.memo.ru",
     "icon": "https://favicons.githubusercontent.com/donate.memo.ru",
     "slug": "donate-memo-ru",
-    "status": "up",
-    "uptime": "99.07%",
-    "uptimeDay": "84.67%",
-    "uptimeWeek": "97.81%",
-    "uptimeMonth": "99.07%",
-    "uptimeYear": "99.07%",
+    "status": "down",
+    "uptime": "99.11%",
+    "uptimeDay": "85.35%",
+    "uptimeWeek": "97.91%",
+    "uptimeMonth": "99.11%",
+    "uptimeYear": "99.11%",
     "time": 1713,
     "timeDay": 1506,
-    "timeWeek": 1584,
+    "timeWeek": 1564,
     "timeMonth": 1713,
     "timeYear": 1713,
     "dailyMinutesDown": {
-      "2021-11-21": 221
+      "2021-11-21": 212
     }
   },
   {
@@ -337,7 +337,7 @@
     "timeMonth": 1875,
     "timeYear": 1875,
     "dailyMinutesDown": {
-      "2021-11-21": 1399,
+      "2021-11-21": 1406,
       "2021-11-20": 1440,
       "2021-11-19": 1440,
       "2021-11-18": 1440,
@@ -423,7 +423,7 @@
     "uptimeYear": "100.00%",
     "time": 3110,
     "timeDay": 2090,
-    "timeWeek": 3004,
+    "timeWeek": 2995,
     "timeMonth": 3110,
     "timeYear": 3110,
     "dailyMinutesDown": {}
@@ -441,7 +441,7 @@
     "uptimeYear": "100.00%",
     "time": 2504,
     "timeDay": 2001,
-    "timeWeek": 3125,
+    "timeWeek": 2503,
     "timeMonth": 2504,
     "timeYear": 2504,
     "dailyMinutesDown": {}
@@ -452,18 +452,18 @@
     "icon": "https://favicons.githubusercontent.com/mos.memo.ru",
     "slug": "mos-memo-ru",
     "status": "down",
-    "uptime": "98.20%",
-    "uptimeDay": "70.33%",
-    "uptimeWeek": "95.76%",
-    "uptimeMonth": "98.20%",
-    "uptimeYear": "98.20%",
+    "uptime": "98.17%",
+    "uptimeDay": "69.88%",
+    "uptimeWeek": "95.70%",
+    "uptimeMonth": "98.17%",
+    "uptimeYear": "98.17%",
     "time": 740,
     "timeDay": 0,
-    "timeWeek": 719,
+    "timeWeek": 712,
     "timeMonth": 740,
     "timeYear": 740,
     "dailyMinutesDown": {
-      "2021-11-21": 427
+      "2021-11-21": 434
     }
   },
   {
@@ -479,7 +479,7 @@
     "uptimeYear": "100.00%",
     "time": 922,
     "timeDay": 587,
-    "timeWeek": 844,
+    "timeWeek": 832,
     "timeMonth": 922,
     "timeYear": 922,
     "dailyMinutesDown": {}
@@ -497,7 +497,7 @@
     "uptimeYear": "100.00%",
     "time": 1501,
     "timeDay": 1202,
-    "timeWeek": 1510,
+    "timeWeek": 1514,
     "timeMonth": 1501,
     "timeYear": 1501,
     "dailyMinutesDown": {}
@@ -515,7 +515,7 @@
     "uptimeYear": "100.00%",
     "time": 2261,
     "timeDay": 1462,
-    "timeWeek": 2139,
+    "timeWeek": 2136,
     "timeMonth": 2261,
     "timeYear": 2261,
     "dailyMinutesDown": {}
@@ -533,7 +533,7 @@
     "uptimeYear": "100.00%",
     "time": 1120,
     "timeDay": 688,
-    "timeWeek": 994,
+    "timeWeek": 982,
     "timeMonth": 1120,
     "timeYear": 1120,
     "dailyMinutesDown": {}
@@ -551,7 +551,7 @@
     "uptimeYear": "100.00%",
     "time": 315,
     "timeDay": 116,
-    "timeWeek": 181,
+    "timeWeek": 173,
     "timeMonth": 315,
     "timeYear": 315,
     "dailyMinutesDown": {}
@@ -569,7 +569,7 @@
     "uptimeYear": "100.00%",
     "time": 965,
     "timeDay": 497,
-    "timeWeek": 696,
+    "timeWeek": 688,
     "timeMonth": 965,
     "timeYear": 965,
     "dailyMinutesDown": {}
