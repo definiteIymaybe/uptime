@@ -7,8 +7,8 @@ sites:
     url: https://memo.ru
   - name: 1968.memo.ru
     url: https://1968.memo.ru
-# - name: 1989.memo.ru
-#   url: http://1989.memo.ru
+  - name: 1989.memo.ru
+    url: http://1989.memo.ru
   - name: 30marta.memo.ru
     url: https://30marta.memo.ru
   - name: afternoon.1968.memo.ru
