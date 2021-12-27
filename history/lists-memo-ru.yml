@@ -1,7 +1,7 @@
 url: http://lists.memo.ru
-status: up
-code: 200
-responseTime: 800
-lastUpdated: 2021-12-26T23:19:34.201Z
+status: down
+code: 401
+responseTime: 453
+lastUpdated: 2021-12-27T22:32:27.395Z
 startTime: Fri Nov 05 2021 12:25:27 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
