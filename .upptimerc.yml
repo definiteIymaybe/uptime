@@ -63,6 +63,8 @@ sites:
     url: https://oskolki.memo.ru
   - name: ost-west.memo.ru
     url: https://ost-west.memo.ru
+  - name: svobodanogami.ru
+    url: https://svobodanogami.ru
     
 assignees: # Users to assign downtime issues (optional)
   - definiteIymaybe
