@@ -342,7 +342,7 @@
     "timeMonth": 1777,
     "timeYear": 1794,
     "dailyMinutesDown": {
-      "2022-01-19": 336,
+      "2022-01-19": 358,
       "2022-01-18": 1440,
       "2022-01-17": 1440,
       "2022-01-16": 1440,
@@ -444,18 +444,17 @@
     "icon": "https://favicons.githubusercontent.com/lists.memo.ru",
     "slug": "lists-memo-ru",
     "status": "up",
-    "uptime": "99.81%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.54%",
-    "uptimeYear": "99.81%",
+    "uptime": "99.82%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.55%",
+    "uptimeYear": "99.82%",
     "time": 541,
     "timeDay": 188,
     "timeWeek": 206,
     "timeMonth": 336,
     "timeYear": 541,
     "dailyMinutesDown": {
-      "2022-01-19": 4,
       "2021-12-28": 108,
       "2021-12-27": 88
     }
@@ -615,9 +614,9 @@
     "url": "https://oskolki.memo.ru",
     "icon": "https://favicons.githubusercontent.com/oskolki.memo.ru",
     "slug": "oskolki-memo-ru",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -626,7 +625,9 @@
     "timeWeek": 196,
     "timeMonth": 205,
     "timeYear": 323,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-19": 0
+    }
   },
   {
     "name": "ost-west.memo.ru",
