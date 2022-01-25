@@ -332,11 +332,11 @@
     "icon": "https://favicons.githubusercontent.com/konkurs.memo.ru",
     "slug": "konkurs-memo-ru",
     "status": "up",
-    "uptime": "4.43%",
+    "uptime": "4.54%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "51.85%",
-    "uptimeMonth": "10.02%",
-    "uptimeYear": "4.43%",
+    "uptimeWeek": "53.13%",
+    "uptimeMonth": "10.32%",
+    "uptimeYear": "4.54%",
     "time": 1771,
     "timeDay": 1920,
     "timeWeek": 1576,
@@ -599,9 +599,9 @@
     "url": "https://october29.ru",
     "icon": "https://favicons.githubusercontent.com/october29.ru",
     "slug": "october29-ru",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -610,7 +610,9 @@
     "timeWeek": 746,
     "timeMonth": 824,
     "timeYear": 973,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-25": 0
+    }
   },
   {
     "name": "oskolki.memo.ru",
