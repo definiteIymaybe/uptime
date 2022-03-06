@@ -4,10 +4,10 @@
     "url": "https://memo.ru",
     "icon": "https://favicons.githubusercontent.com/memo.ru",
     "slug": "memo-ru",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2849,
@@ -15,7 +15,9 @@
     "timeWeek": 2630,
     "timeMonth": 2606,
     "timeYear": 2849,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-06": 1
+    }
   },
   {
     "name": "1968.memo.ru",
@@ -338,11 +340,11 @@
     "icon": "https://favicons.githubusercontent.com/konkurs.memo.ru",
     "slug": "konkurs-memo-ru",
     "status": "up",
-    "uptime": "36.17%",
+    "uptime": "36.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "36.17%",
+    "uptimeYear": "36.18%",
     "time": 1759,
     "timeDay": 1356,
     "timeWeek": 1910,
@@ -491,10 +493,10 @@
     "url": "https://memo.ru",
     "icon": "https://favicons.githubusercontent.com/memo.ru",
     "slug": "memo-ru",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2849,
@@ -502,7 +504,9 @@
     "timeWeek": 2630,
     "timeMonth": 2606,
     "timeYear": 2849,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-06": 1
+    }
   },
   {
     "name": "memoirs.memo.ru",
@@ -549,10 +553,10 @@
     "url": "https://museum.memo.ru",
     "icon": "https://favicons.githubusercontent.com/museum.memo.ru",
     "slug": "museum-memo-ru",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 810,
@@ -560,7 +564,9 @@
     "timeWeek": 667,
     "timeMonth": 677,
     "timeYear": 810,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-06": 1
+    }
   },
   {
     "name": "nkvd.memo.ru",
