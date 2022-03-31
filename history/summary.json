@@ -13,7 +13,7 @@
     "time": 2862,
     "timeDay": 2576,
     "timeWeek": 2745,
-    "timeMonth": 2874,
+    "timeMonth": 2870,
     "timeYear": 2862,
     "dailyMinutesDown": {
       "2022-03-06": 55
@@ -33,7 +33,7 @@
     "time": 780,
     "timeDay": 339,
     "timeWeek": 362,
-    "timeMonth": 418,
+    "timeMonth": 431,
     "timeYear": 780,
     "dailyMinutesDown": {
       "2022-02-02": 22
@@ -53,7 +53,7 @@
     "time": 552,
     "timeDay": 220,
     "timeWeek": 211,
-    "timeMonth": 243,
+    "timeMonth": 241,
     "timeYear": 552,
     "dailyMinutesDown": {
       "2021-11-23": 230,
@@ -68,14 +68,14 @@
     "slug": "30marta-memo-ru",
     "status": "up",
     "uptime": "98.28%",
-    "uptimeDay": "62.81%",
+    "uptimeDay": "62.96%",
     "uptimeWeek": "64.29%",
     "uptimeMonth": "91.78%",
     "uptimeYear": "98.28%",
     "time": 527,
-    "timeDay": 542,
-    "timeWeek": 598,
-    "timeMonth": 483,
+    "timeDay": 541,
+    "timeWeek": 599,
+    "timeMonth": 482,
     "timeYear": 527,
     "dailyMinutesDown": {
       "2022-03-30": 533,
@@ -101,7 +101,7 @@
     "time": 900,
     "timeDay": 754,
     "timeWeek": 740,
-    "timeMonth": 789,
+    "timeMonth": 787,
     "timeYear": 900,
     "dailyMinutesDown": {
       "2022-01-20": 42,
@@ -140,7 +140,7 @@
     "time": 968,
     "timeDay": 467,
     "timeWeek": 816,
-    "timeMonth": 938,
+    "timeMonth": 940,
     "timeYear": 968,
     "dailyMinutesDown": {}
   },
@@ -179,7 +179,7 @@
     "time": 1218,
     "timeDay": 765,
     "timeWeek": 744,
-    "timeMonth": 721,
+    "timeMonth": 722,
     "timeYear": 1218,
     "dailyMinutesDown": {
       "2021-12-29": 258,
@@ -230,13 +230,13 @@
     "slug": "donate-memo-ru",
     "status": "up",
     "uptime": "98.28%",
-    "uptimeDay": "62.84%",
+    "uptimeDay": "62.98%",
     "uptimeWeek": "64.31%",
     "uptimeMonth": "91.79%",
     "uptimeYear": "98.28%",
     "time": 678,
-    "timeDay": 576,
-    "timeWeek": 552,
+    "timeDay": 570,
+    "timeWeek": 551,
     "timeMonth": 497,
     "timeYear": 678,
     "dailyMinutesDown": {
@@ -263,7 +263,7 @@
     "time": 1031,
     "timeDay": 920,
     "timeWeek": 885,
-    "timeMonth": 977,
+    "timeMonth": 976,
     "timeYear": 1031,
     "dailyMinutesDown": {
       "2021-11-14": 15
@@ -283,7 +283,7 @@
     "time": 1644,
     "timeDay": 1538,
     "timeWeek": 1502,
-    "timeMonth": 1567,
+    "timeMonth": 1566,
     "timeYear": 1644,
     "dailyMinutesDown": {}
   },
@@ -319,7 +319,7 @@
     "time": 1050,
     "timeDay": 1009,
     "timeWeek": 935,
-    "timeMonth": 958,
+    "timeMonth": 959,
     "timeYear": 1050,
     "dailyMinutesDown": {
       "2022-02-02": 21
@@ -339,7 +339,7 @@
     "time": 366,
     "timeDay": 310,
     "timeWeek": 276,
-    "timeMonth": 300,
+    "timeMonth": 301,
     "timeYear": 366,
     "dailyMinutesDown": {}
   },
@@ -349,15 +349,15 @@
     "icon": "https://favicons.githubusercontent.com/konkurs.memo.ru",
     "slug": "konkurs-memo-ru",
     "status": "up",
-    "uptime": "47.12%",
+    "uptime": "47.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "47.12%",
+    "uptimeYear": "47.14%",
     "time": 1754,
     "timeDay": 1839,
     "timeWeek": 1686,
-    "timeMonth": 1748,
+    "timeMonth": 1752,
     "timeYear": 1754,
     "dailyMinutesDown": {
       "2022-01-21": 596,
@@ -454,7 +454,7 @@
     "time": 705,
     "timeDay": 957,
     "timeWeek": 716,
-    "timeMonth": 720,
+    "timeMonth": 722,
     "timeYear": 705,
     "dailyMinutesDown": {}
   },
@@ -472,7 +472,7 @@
     "time": 391,
     "timeDay": 218,
     "timeWeek": 165,
-    "timeMonth": 176,
+    "timeMonth": 177,
     "timeYear": 391,
     "dailyMinutesDown": {
       "2021-12-28": 108,
@@ -511,7 +511,7 @@
     "time": 2862,
     "timeDay": 2576,
     "timeWeek": 2745,
-    "timeMonth": 2874,
+    "timeMonth": 2870,
     "timeYear": 2862,
     "dailyMinutesDown": {
       "2022-03-06": 55
@@ -531,7 +531,7 @@
     "time": 2557,
     "timeDay": 2734,
     "timeWeek": 2461,
-    "timeMonth": 2530,
+    "timeMonth": 2554,
     "timeYear": 2557,
     "dailyMinutesDown": {}
   },
@@ -549,7 +549,7 @@
     "time": 268,
     "timeDay": 129,
     "timeWeek": 122,
-    "timeMonth": 156,
+    "timeMonth": 155,
     "timeYear": 268,
     "dailyMinutesDown": {
       "2022-01-18": 25,
@@ -571,7 +571,7 @@
     "time": 803,
     "timeDay": 816,
     "timeWeek": 734,
-    "timeMonth": 756,
+    "timeMonth": 757,
     "timeYear": 803,
     "dailyMinutesDown": {
       "2022-03-06": 55
@@ -591,7 +591,7 @@
     "time": 1460,
     "timeDay": 1522,
     "timeWeek": 1431,
-    "timeMonth": 1411,
+    "timeMonth": 1409,
     "timeYear": 1460,
     "dailyMinutesDown": {
       "2022-03-26": 16,
@@ -616,7 +616,7 @@
     "time": 1911,
     "timeDay": 1433,
     "timeWeek": 1591,
-    "timeMonth": 1520,
+    "timeMonth": 1565,
     "timeYear": 1911,
     "dailyMinutesDown": {}
   },
@@ -628,13 +628,13 @@
     "status": "up",
     "uptime": "99.31%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "95.66%",
+    "uptimeWeek": "96.49%",
     "uptimeMonth": "96.76%",
     "uptimeYear": "99.31%",
     "time": 890,
     "timeDay": 834,
     "timeWeek": 749,
-    "timeMonth": 760,
+    "timeMonth": 764,
     "timeYear": 890,
     "dailyMinutesDown": {
       "2022-03-24": 431,
@@ -656,7 +656,7 @@
     "time": 244,
     "timeDay": 151,
     "timeWeek": 151,
-    "timeMonth": 146,
+    "timeMonth": 147,
     "timeYear": 244,
     "dailyMinutesDown": {}
   },
@@ -674,7 +674,7 @@
     "time": 695,
     "timeDay": 629,
     "timeWeek": 586,
-    "timeMonth": 612,
+    "timeMonth": 613,
     "timeYear": 695,
     "dailyMinutesDown": {
       "2021-12-20": 20
@@ -694,7 +694,7 @@
     "time": 451,
     "timeDay": 121,
     "timeWeek": 225,
-    "timeMonth": 259,
+    "timeMonth": 262,
     "timeYear": 451,
     "dailyMinutesDown": {}
   }
