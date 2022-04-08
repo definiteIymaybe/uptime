@@ -66,15 +66,15 @@
     "url": "https://30marta.memo.ru",
     "icon": "https://favicons.githubusercontent.com/30marta.memo.ru",
     "slug": "30marta-memo-ru",
-    "status": "up",
+    "status": "down",
     "uptime": "98.25%",
-    "uptimeDay": "69.75%",
+    "uptimeDay": "69.72%",
     "uptimeWeek": "65.13%",
-    "uptimeMonth": "91.11%",
+    "uptimeMonth": "91.14%",
     "uptimeYear": "98.25%",
     "time": 485,
-    "timeDay": 398,
-    "timeWeek": 402,
+    "timeDay": 389,
+    "timeWeek": 401,
     "timeMonth": 450,
     "timeYear": 485,
     "dailyMinutesDown": {
@@ -85,7 +85,7 @@
       "2022-04-04": 579,
       "2022-04-03": 453,
       "2022-04-02": 479,
-      "2022-04-01": 431
+      "2022-04-01": 415
     }
   },
   {
@@ -229,15 +229,15 @@
     "url": "https://donate.memo.ru",
     "icon": "https://favicons.githubusercontent.com/donate.memo.ru",
     "slug": "donate-memo-ru",
-    "status": "up",
+    "status": "down",
     "uptime": "98.25%",
-    "uptimeDay": "69.77%",
+    "uptimeDay": "69.73%",
     "uptimeWeek": "65.14%",
-    "uptimeMonth": "91.10%",
+    "uptimeMonth": "91.13%",
     "uptimeYear": "98.25%",
     "time": 612,
-    "timeDay": 477,
-    "timeWeek": 464,
+    "timeDay": 465,
+    "timeWeek": 462,
     "timeMonth": 482,
     "timeYear": 612,
     "dailyMinutesDown": {
@@ -248,7 +248,7 @@
       "2022-04-04": 578,
       "2022-04-03": 453,
       "2022-04-02": 479,
-      "2022-04-01": 435
+      "2022-04-01": 419
     }
   },
   {
@@ -351,11 +351,11 @@
     "icon": "https://favicons.githubusercontent.com/konkurs.memo.ru",
     "slug": "konkurs-memo-ru",
     "status": "up",
-    "uptime": "50.18%",
+    "uptime": "50.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "50.18%",
+    "uptimeYear": "50.19%",
     "time": 1748,
     "timeDay": 1814,
     "timeWeek": 1609,
