@@ -1,7 +1,7 @@
 url: https://nkvd.memo.ru
-status: up
-code: 200
-responseTime: 1237
-lastUpdated: 2022-05-04T23:21:18.707Z
+status: down
+code: 500
+responseTime: 426
+lastUpdated: 2022-05-06T00:50:49.239Z
 startTime: Fri Nov 05 2021 12:25:40 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
