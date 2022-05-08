@@ -70,17 +70,17 @@
     "url": "https://30marta.memo.ru",
     "icon": "https://favicons.githubusercontent.com/30marta.memo.ru",
     "slug": "30marta-memo-ru",
-    "status": "up",
-    "uptime": "98.27%",
-    "uptimeDay": "51.40%",
+    "status": "down",
+    "uptime": "98.29%",
+    "uptimeDay": "51.94%",
     "uptimeWeek": "55.23%",
-    "uptimeMonth": "89.50%",
-    "uptimeYear": "98.27%",
-    "time": 530,
-    "timeDay": 3070,
-    "timeWeek": 1036,
-    "timeMonth": 574,
-    "timeYear": 530,
+    "uptimeMonth": "89.61%",
+    "uptimeYear": "98.29%",
+    "time": 531,
+    "timeDay": 3062,
+    "timeWeek": 1046,
+    "timeMonth": 576,
+    "timeYear": 531,
     "dailyMinutesDown": {
       "2022-05-08": 617,
       "2022-05-07": 659,
@@ -89,7 +89,7 @@
       "2022-05-04": 644,
       "2022-05-03": 612,
       "2022-05-02": 591,
-      "2022-05-01": 113
+      "2022-05-01": 62
     }
   },
   {
@@ -235,14 +235,14 @@
     "url": "https://donate.memo.ru",
     "icon": "https://favicons.githubusercontent.com/donate.memo.ru",
     "slug": "donate-memo-ru",
-    "status": "up",
-    "uptime": "98.26%",
-    "uptimeDay": "52.73%",
-    "uptimeWeek": "55.64%",
-    "uptimeMonth": "89.45%",
-    "uptimeYear": "98.26%",
+    "status": "down",
+    "uptime": "98.28%",
+    "uptimeDay": "53.26%",
+    "uptimeWeek": "55.63%",
+    "uptimeMonth": "89.59%",
+    "uptimeYear": "98.28%",
     "time": 564,
-    "timeDay": 816,
+    "timeDay": 805,
     "timeWeek": 681,
     "timeMonth": 515,
     "timeYear": 564,
@@ -254,7 +254,7 @@
       "2022-05-04": 644,
       "2022-05-03": 611,
       "2022-05-02": 591,
-      "2022-05-01": 172
+      "2022-05-01": 113
     }
   },
   {
@@ -286,9 +286,9 @@
     "slug": "fond21-memo-ru",
     "status": "up",
     "uptime": "99.54%",
-    "uptimeDay": "15.55%",
-    "uptimeWeek": "87.94%",
-    "uptimeMonth": "97.22%",
+    "uptimeDay": "14.99%",
+    "uptimeWeek": "87.86%",
+    "uptimeMonth": "97.21%",
     "uptimeYear": "99.54%",
     "time": 1628,
     "timeDay": 1655,
@@ -296,7 +296,7 @@
     "timeMonth": 1560,
     "timeYear": 1628,
     "dailyMinutesDown": {
-      "2022-05-08": 1216
+      "2022-05-08": 1224
     }
   },
   {
@@ -344,9 +344,9 @@
     "slug": "hts-memo-ru",
     "status": "up",
     "uptime": "99.54%",
-    "uptimeDay": "15.59%",
-    "uptimeWeek": "87.94%",
-    "uptimeMonth": "97.23%",
+    "uptimeDay": "15.03%",
+    "uptimeWeek": "87.86%",
+    "uptimeMonth": "97.21%",
     "uptimeYear": "99.54%",
     "time": 349,
     "timeDay": 305,
@@ -354,7 +354,7 @@
     "timeMonth": 286,
     "timeYear": 349,
     "dailyMinutesDown": {
-      "2022-05-08": 1216
+      "2022-05-08": 1224
     }
   },
   {
@@ -461,9 +461,9 @@
     "slug": "lib-memo-ru",
     "status": "up",
     "uptime": "99.54%",
-    "uptimeDay": "15.63%",
-    "uptimeWeek": "87.95%",
-    "uptimeMonth": "97.23%",
+    "uptimeDay": "15.07%",
+    "uptimeWeek": "87.87%",
+    "uptimeMonth": "97.21%",
     "uptimeYear": "99.54%",
     "time": 705,
     "timeDay": 758,
@@ -471,7 +471,7 @@
     "timeMonth": 720,
     "timeYear": 705,
     "dailyMinutesDown": {
-      "2022-05-08": 1215
+      "2022-05-08": 1223
     }
   },
   {
@@ -584,9 +584,9 @@
     "slug": "museum-memo-ru",
     "status": "up",
     "uptime": "99.52%",
-    "uptimeDay": "15.69%",
-    "uptimeWeek": "87.96%",
-    "uptimeMonth": "97.23%",
+    "uptimeDay": "15.14%",
+    "uptimeWeek": "87.88%",
+    "uptimeMonth": "97.21%",
     "uptimeYear": "99.52%",
     "time": 789,
     "timeDay": 788,
@@ -594,7 +594,7 @@
     "timeMonth": 741,
     "timeYear": 789,
     "dailyMinutesDown": {
-      "2022-05-08": 1214,
+      "2022-05-08": 1222,
       "2022-03-06": 55
     }
   },
@@ -639,9 +639,9 @@
     "slug": "notepad-memo-ru",
     "status": "up",
     "uptime": "99.54%",
-    "uptimeDay": "15.72%",
-    "uptimeWeek": "87.96%",
-    "uptimeMonth": "97.23%",
+    "uptimeDay": "15.17%",
+    "uptimeWeek": "87.88%",
+    "uptimeMonth": "97.21%",
     "uptimeYear": "99.54%",
     "time": 1829,
     "timeDay": 1222,
@@ -649,7 +649,7 @@
     "timeMonth": 1485,
     "timeYear": 1829,
     "dailyMinutesDown": {
-      "2022-05-08": 1214
+      "2022-05-08": 1222
     }
   },
   {
