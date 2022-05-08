@@ -70,19 +70,19 @@
     "url": "https://30marta.memo.ru",
     "icon": "https://favicons.githubusercontent.com/30marta.memo.ru",
     "slug": "30marta-memo-ru",
-    "status": "down",
+    "status": "up",
     "uptime": "98.26%",
-    "uptimeDay": "47.08%",
-    "uptimeWeek": "55.10%",
-    "uptimeMonth": "89.48%",
+    "uptimeDay": "46.54%",
+    "uptimeWeek": "55.03%",
+    "uptimeMonth": "89.47%",
     "uptimeYear": "98.26%",
     "time": 505,
-    "timeDay": 1593,
-    "timeWeek": 792,
-    "timeMonth": 522,
+    "timeDay": 1610,
+    "timeWeek": 798,
+    "timeMonth": 523,
     "timeYear": 505,
     "dailyMinutesDown": {
-      "2022-05-08": 356,
+      "2022-05-08": 363,
       "2022-05-07": 659,
       "2022-05-06": 585,
       "2022-05-05": 781,
@@ -235,19 +235,19 @@
     "url": "https://donate.memo.ru",
     "icon": "https://favicons.githubusercontent.com/donate.memo.ru",
     "slug": "donate-memo-ru",
-    "status": "down",
+    "status": "up",
     "uptime": "98.26%",
-    "uptimeDay": "48.41%",
-    "uptimeWeek": "55.51%",
-    "uptimeMonth": "89.50%",
+    "uptimeDay": "47.89%",
+    "uptimeWeek": "55.44%",
+    "uptimeMonth": "89.48%",
     "uptimeYear": "98.26%",
     "time": 562,
-    "timeDay": 752,
-    "timeWeek": 653,
-    "timeMonth": 508,
+    "timeDay": 763,
+    "timeWeek": 657,
+    "timeMonth": 509,
     "timeYear": 562,
     "dailyMinutesDown": {
-      "2022-05-08": 336,
+      "2022-05-08": 343,
       "2022-05-07": 660,
       "2022-05-06": 564,
       "2022-05-05": 781,
@@ -286,9 +286,9 @@
     "slug": "fond21-memo-ru",
     "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "52.93%",
-    "uptimeWeek": "93.28%",
-    "uptimeMonth": "98.45%",
+    "uptimeDay": "52.37%",
+    "uptimeWeek": "93.20%",
+    "uptimeMonth": "98.43%",
     "uptimeYear": "99.74%",
     "time": 1628,
     "timeDay": 1655,
@@ -296,7 +296,7 @@
     "timeMonth": 1560,
     "timeYear": 1628,
     "dailyMinutesDown": {
-      "2022-05-08": 678
+      "2022-05-08": 686
     }
   },
   {
@@ -344,9 +344,9 @@
     "slug": "hts-memo-ru",
     "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "52.97%",
-    "uptimeWeek": "93.28%",
-    "uptimeMonth": "98.45%",
+    "uptimeDay": "52.40%",
+    "uptimeWeek": "93.20%",
+    "uptimeMonth": "98.44%",
     "uptimeYear": "99.74%",
     "time": 349,
     "timeDay": 305,
@@ -354,7 +354,7 @@
     "timeMonth": 286,
     "timeYear": 349,
     "dailyMinutesDown": {
-      "2022-05-08": 677
+      "2022-05-08": 685
     }
   },
   {
@@ -461,9 +461,9 @@
     "slug": "lib-memo-ru",
     "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "53.01%",
-    "uptimeWeek": "93.29%",
-    "uptimeMonth": "98.46%",
+    "uptimeDay": "52.44%",
+    "uptimeWeek": "93.21%",
+    "uptimeMonth": "98.44%",
     "uptimeYear": "99.74%",
     "time": 705,
     "timeDay": 758,
@@ -471,7 +471,7 @@
     "timeMonth": 720,
     "timeYear": 705,
     "dailyMinutesDown": {
-      "2022-05-08": 677
+      "2022-05-08": 685
     }
   },
   {
@@ -584,9 +584,9 @@
     "slug": "museum-memo-ru",
     "status": "up",
     "uptime": "99.72%",
-    "uptimeDay": "53.07%",
-    "uptimeWeek": "93.30%",
-    "uptimeMonth": "98.46%",
+    "uptimeDay": "52.51%",
+    "uptimeWeek": "93.22%",
+    "uptimeMonth": "98.44%",
     "uptimeYear": "99.72%",
     "time": 789,
     "timeDay": 788,
@@ -594,7 +594,7 @@
     "timeMonth": 741,
     "timeYear": 789,
     "dailyMinutesDown": {
-      "2022-05-08": 676,
+      "2022-05-08": 684,
       "2022-03-06": 55
     }
   },
@@ -638,18 +638,18 @@
     "icon": "https://favicons.githubusercontent.com/notepad.memo.ru",
     "slug": "notepad-memo-ru",
     "status": "up",
-    "uptime": "99.75%",
-    "uptimeDay": "53.10%",
-    "uptimeWeek": "93.30%",
-    "uptimeMonth": "98.46%",
-    "uptimeYear": "99.75%",
+    "uptime": "99.74%",
+    "uptimeDay": "52.54%",
+    "uptimeWeek": "93.22%",
+    "uptimeMonth": "98.44%",
+    "uptimeYear": "99.74%",
     "time": 1829,
     "timeDay": 1222,
     "timeWeek": 1445,
     "timeMonth": 1485,
     "timeYear": 1829,
     "dailyMinutesDown": {
-      "2022-05-08": 675
+      "2022-05-08": 683
     }
   },
   {
