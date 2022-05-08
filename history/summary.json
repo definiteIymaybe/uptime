@@ -70,26 +70,26 @@
     "url": "https://30marta.memo.ru",
     "icon": "https://favicons.githubusercontent.com/30marta.memo.ru",
     "slug": "30marta-memo-ru",
-    "status": "up",
-    "uptime": "98.26%",
-    "uptimeDay": "51.30%",
-    "uptimeWeek": "55.61%",
-    "uptimeMonth": "89.48%",
-    "uptimeYear": "98.26%",
-    "time": 512,
-    "timeDay": 1983,
-    "timeWeek": 861,
-    "timeMonth": 537,
-    "timeYear": 512,
+    "status": "down",
+    "uptime": "98.27%",
+    "uptimeDay": "51.86%",
+    "uptimeWeek": "55.68%",
+    "uptimeMonth": "89.51%",
+    "uptimeYear": "98.27%",
+    "time": 516,
+    "timeDay": 2172,
+    "timeWeek": 894,
+    "timeMonth": 544,
+    "timeYear": 516,
     "dailyMinutesDown": {
-      "2022-05-08": 423,
+      "2022-05-08": 424,
       "2022-05-07": 659,
       "2022-05-06": 585,
       "2022-05-05": 781,
       "2022-05-04": 644,
       "2022-05-03": 612,
       "2022-05-02": 591,
-      "2022-05-01": 314
+      "2022-05-01": 299
     }
   },
   {
@@ -235,26 +235,26 @@
     "url": "https://donate.memo.ru",
     "icon": "https://favicons.githubusercontent.com/donate.memo.ru",
     "slug": "donate-memo-ru",
-    "status": "up",
-    "uptime": "98.26%",
-    "uptimeDay": "52.65%",
-    "uptimeWeek": "56.02%",
-    "uptimeMonth": "89.48%",
-    "uptimeYear": "98.26%",
+    "status": "down",
+    "uptime": "98.28%",
+    "uptimeDay": "53.19%",
+    "uptimeWeek": "56.09%",
+    "uptimeMonth": "89.57%",
+    "uptimeYear": "98.28%",
     "time": 563,
-    "timeDay": 784,
+    "timeDay": 777,
     "timeWeek": 664,
     "timeMonth": 511,
     "timeYear": 563,
     "dailyMinutesDown": {
-      "2022-05-08": 403,
+      "2022-05-08": 404,
       "2022-05-07": 660,
       "2022-05-06": 564,
       "2022-05-05": 781,
       "2022-05-04": 644,
       "2022-05-03": 611,
       "2022-05-02": 591,
-      "2022-05-01": 356
+      "2022-05-01": 314
     }
   },
   {
@@ -286,9 +286,9 @@
     "slug": "fond21-memo-ru",
     "status": "up",
     "uptime": "99.67%",
-    "uptimeDay": "40.10%",
-    "uptimeWeek": "91.44%",
-    "uptimeMonth": "98.03%",
+    "uptimeDay": "39.50%",
+    "uptimeWeek": "91.36%",
+    "uptimeMonth": "98.01%",
     "uptimeYear": "99.67%",
     "time": 1628,
     "timeDay": 1655,
@@ -296,7 +296,7 @@
     "timeMonth": 1560,
     "timeYear": 1628,
     "dailyMinutesDown": {
-      "2022-05-08": 863
+      "2022-05-08": 871
     }
   },
   {
@@ -344,9 +344,9 @@
     "slug": "hts-memo-ru",
     "status": "up",
     "uptime": "99.67%",
-    "uptimeDay": "40.14%",
-    "uptimeWeek": "91.45%",
-    "uptimeMonth": "98.03%",
+    "uptimeDay": "39.54%",
+    "uptimeWeek": "91.36%",
+    "uptimeMonth": "98.01%",
     "uptimeYear": "99.67%",
     "time": 349,
     "timeDay": 305,
@@ -354,7 +354,7 @@
     "timeMonth": 286,
     "timeYear": 349,
     "dailyMinutesDown": {
-      "2022-05-08": 862
+      "2022-05-08": 871
     }
   },
   {
@@ -460,18 +460,18 @@
     "icon": "https://favicons.githubusercontent.com/lib.memo.ru",
     "slug": "lib-memo-ru",
     "status": "up",
-    "uptime": "99.68%",
-    "uptimeDay": "40.18%",
-    "uptimeWeek": "91.45%",
-    "uptimeMonth": "98.03%",
-    "uptimeYear": "99.68%",
+    "uptime": "99.67%",
+    "uptimeDay": "39.58%",
+    "uptimeWeek": "91.37%",
+    "uptimeMonth": "98.01%",
+    "uptimeYear": "99.67%",
     "time": 705,
     "timeDay": 758,
     "timeWeek": 765,
     "timeMonth": 720,
     "timeYear": 705,
     "dailyMinutesDown": {
-      "2022-05-08": 861
+      "2022-05-08": 870
     }
   },
   {
@@ -584,9 +584,9 @@
     "slug": "museum-memo-ru",
     "status": "up",
     "uptime": "99.65%",
-    "uptimeDay": "40.25%",
-    "uptimeWeek": "91.46%",
-    "uptimeMonth": "98.04%",
+    "uptimeDay": "39.65%",
+    "uptimeWeek": "91.38%",
+    "uptimeMonth": "98.02%",
     "uptimeYear": "99.65%",
     "time": 789,
     "timeDay": 788,
@@ -594,7 +594,7 @@
     "timeMonth": 741,
     "timeYear": 789,
     "dailyMinutesDown": {
-      "2022-05-08": 860,
+      "2022-05-08": 869,
       "2022-03-06": 55
     }
   },
@@ -638,18 +638,18 @@
     "icon": "https://favicons.githubusercontent.com/notepad.memo.ru",
     "slug": "notepad-memo-ru",
     "status": "up",
-    "uptime": "99.68%",
-    "uptimeDay": "40.27%",
-    "uptimeWeek": "91.47%",
-    "uptimeMonth": "98.04%",
-    "uptimeYear": "99.68%",
+    "uptime": "99.67%",
+    "uptimeDay": "39.67%",
+    "uptimeWeek": "91.38%",
+    "uptimeMonth": "98.02%",
+    "uptimeYear": "99.67%",
     "time": 1829,
     "timeDay": 1222,
     "timeWeek": 1445,
     "timeMonth": 1485,
     "timeYear": 1829,
     "dailyMinutesDown": {
-      "2022-05-08": 860
+      "2022-05-08": 869
     }
   },
   {
