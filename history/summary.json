@@ -83,7 +83,7 @@
     "uptimeMonth": "91.88%",
     "uptimeYear": "98.88%",
     "time": 827,
-    "timeDay": 1047,
+    "timeDay": 1055,
     "timeWeek": 1094,
     "timeMonth": 1152,
     "timeYear": 827,
@@ -148,10 +148,10 @@
     "url": "http://archive.tastorona.su",
     "icon": "https://favicons.githubusercontent.com/archive.tastorona.su",
     "slug": "archive-tastorona-su",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 932,
@@ -159,7 +159,9 @@
     "timeWeek": 817,
     "timeMonth": 846,
     "timeYear": 932,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-13": 1
+    }
   },
   {
     "name": "backhome.memo.ru",
@@ -260,7 +262,7 @@
     "uptimeMonth": "91.86%",
     "uptimeYear": "98.88%",
     "time": 637,
-    "timeDay": 734,
+    "timeDay": 740,
     "timeWeek": 710,
     "timeMonth": 768,
     "timeYear": 637,
@@ -317,7 +319,7 @@
     "timeMonth": 1535,
     "timeYear": 1611,
     "dailyMinutesDown": {
-      "2022-06-13": 1417,
+      "2022-06-13": 1427,
       "2022-06-12": 1440,
       "2022-06-11": 1440,
       "2022-06-10": 1440,
@@ -416,7 +418,7 @@
     "timeMonth": 277,
     "timeYear": 337,
     "dailyMinutesDown": {
-      "2022-06-13": 1417,
+      "2022-06-13": 1427,
       "2022-06-12": 1440,
       "2022-06-11": 1440,
       "2022-06-10": 1440,
@@ -570,7 +572,7 @@
     "timeMonth": 704,
     "timeYear": 703,
     "dailyMinutesDown": {
-      "2022-06-13": 1417,
+      "2022-06-13": 1427,
       "2022-06-12": 1440,
       "2022-06-11": 1440,
       "2022-06-10": 1440,
@@ -726,7 +728,7 @@
     "uptime": "88.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "34.56%",
+    "uptimeMonth": "34.59%",
     "uptimeYear": "88.25%",
     "time": 780,
     "timeDay": 809,
@@ -819,7 +821,7 @@
     "timeMonth": 1466,
     "timeYear": 1765,
     "dailyMinutesDown": {
-      "2022-06-13": 1418,
+      "2022-06-13": 1427,
       "2022-06-12": 1440,
       "2022-06-11": 1440,
       "2022-06-10": 1440,
