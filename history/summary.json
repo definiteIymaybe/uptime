@@ -76,15 +76,15 @@
     "url": "https://30marta.memo.ru",
     "icon": "https://favicons.githubusercontent.com/30marta.memo.ru",
     "slug": "30marta-memo-ru",
-    "status": "up",
-    "uptime": "98.90%",
-    "uptimeDay": "73.13%",
+    "status": "down",
+    "uptime": "98.91%",
+    "uptimeDay": "74.25%",
     "uptimeWeek": "74.37%",
-    "uptimeMonth": "91.98%",
-    "uptimeYear": "98.90%",
+    "uptimeMonth": "92.07%",
+    "uptimeYear": "98.91%",
     "time": 831,
-    "timeDay": 1075,
-    "timeWeek": 1062,
+    "timeDay": 1076,
+    "timeWeek": 1060,
     "timeMonth": 1154,
     "timeYear": 831,
     "dailyMinutesDown": {
@@ -97,7 +97,7 @@
       "2022-06-09": 321,
       "2022-06-08": 490,
       "2022-06-07": 234,
-      "2022-06-06": 210
+      "2022-06-06": 174
     }
   },
   {
@@ -256,19 +256,19 @@
     "url": "https://donate.memo.ru",
     "icon": "https://favicons.githubusercontent.com/donate.memo.ru",
     "slug": "donate-memo-ru",
-    "status": "up",
-    "uptime": "98.90%",
-    "uptimeDay": "73.11%",
-    "uptimeWeek": "74.30%",
-    "uptimeMonth": "91.96%",
-    "uptimeYear": "98.90%",
+    "status": "down",
+    "uptime": "98.91%",
+    "uptimeDay": "74.23%",
+    "uptimeWeek": "74.29%",
+    "uptimeMonth": "92.04%",
+    "uptimeYear": "98.91%",
     "time": 638,
-    "timeDay": 728,
-    "timeWeek": 714,
+    "timeDay": 718,
+    "timeWeek": 711,
     "timeMonth": 766,
     "timeYear": 638,
     "dailyMinutesDown": {
-      "2022-06-15": 370,
+      "2022-06-15": 371,
       "2022-06-14": 289,
       "2022-06-13": 393,
       "2022-06-12": 353,
@@ -277,7 +277,7 @@
       "2022-06-09": 321,
       "2022-06-08": 489,
       "2022-06-07": 236,
-      "2022-06-06": 211
+      "2022-06-06": 175
     }
   },
   {
@@ -320,7 +320,7 @@
     "timeMonth": 1530,
     "timeYear": 1611,
     "dailyMinutesDown": {
-      "2022-06-15": 1363,
+      "2022-06-15": 1380,
       "2022-06-14": 1440,
       "2022-06-13": 1440,
       "2022-06-12": 1440,
@@ -421,7 +421,7 @@
     "timeMonth": 274,
     "timeYear": 336,
     "dailyMinutesDown": {
-      "2022-06-15": 1363,
+      "2022-06-15": 1380,
       "2022-06-14": 1440,
       "2022-06-13": 1440,
       "2022-06-12": 1440,
@@ -577,7 +577,7 @@
     "timeMonth": 698,
     "timeYear": 702,
     "dailyMinutesDown": {
-      "2022-06-15": 1363,
+      "2022-06-15": 1380,
       "2022-06-14": 1440,
       "2022-06-13": 1440,
       "2022-06-12": 1440,
@@ -735,7 +735,7 @@
     "uptime": "88.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "41.02%",
+    "uptimeMonth": "41.05%",
     "uptimeYear": "88.35%",
     "time": 779,
     "timeDay": 698,
@@ -828,7 +828,7 @@
     "timeMonth": 1424,
     "timeYear": 1763,
     "dailyMinutesDown": {
-      "2022-06-15": 1363,
+      "2022-06-15": 1380,
       "2022-06-14": 1440,
       "2022-06-13": 1440,
       "2022-06-12": 1440,
