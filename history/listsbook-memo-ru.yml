@@ -1,7 +1,7 @@
 url: http://listsbook.memo.ru
-status: up
-code: 200
-responseTime: 219
-lastUpdated: 2022-06-21T07:26:48.340Z
+status: down
+code: 500
+responseTime: 140
+lastUpdated: 2022-06-21T07:39:25.622Z
 startTime: Fri Nov 05 2021 12:25:28 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
