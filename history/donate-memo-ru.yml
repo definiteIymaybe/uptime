@@ -1,7 +1,7 @@
 url: https://donate.memo.ru
-status: up
-code: 200
-responseTime: 791
-lastUpdated: 2022-06-24T18:57:34.842Z
+status: down
+code: 403
+responseTime: 646
+lastUpdated: 2022-06-24T19:26:37.481Z
 startTime: Fri Nov 05 2021 12:24:53 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
