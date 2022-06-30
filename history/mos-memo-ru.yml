@@ -1,7 +1,7 @@
 url: https://mos.memo.ru
-status: up
-code: 200
-responseTime: 136
-lastUpdated: 2022-06-29T23:20:22.434Z
+status: down
+code: 403
+responseTime: 57
+lastUpdated: 2022-06-30T05:44:24.367Z
 startTime: Fri Nov 05 2021 12:25:38 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
